@@ -1,4 +1,4 @@
-# Exercises to learn Vue.js
+# Exercises used to learn Vue.js 2.0
 #### ( solved by me )
 
 Exercise      | Skills Learned
@@ -13,4 +13,6 @@ Exercise 6    | * Creating and relating components
 Exercise 7    | * Communication between components
 Exercise 8    | * Slots and Dinamic Components
 **Project 2** | * Quote Generator
-Other Codes   | * Codes used to understand better some parts.  
+Exercise 9    | * Handling Forms
+Exercise 10   | *  Practicing Directives
+Other Codes   | * Codes used to understand better vue.js  
