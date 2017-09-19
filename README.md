@@ -15,4 +15,5 @@ Exercise 8    | * Slots and Dinamic Components
 **Project 2** | * Quote Generator
 Exercise 9    | * Handling Forms
 Exercise 10   | *  Practicing Directives
+**Project 3** | * The Stock Trader
 Other Codes   | * Codes used to understand better vue.js  
